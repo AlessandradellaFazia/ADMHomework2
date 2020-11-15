@@ -9,8 +9,9 @@ The datasets used, available [here](https://www.kaggle.com/mkechinov/ecommerce-b
 ## Content
 The repository contains:
 1. **`main.ipynb`**:
-> the Jupyter notebook  that contains all the answers and plots to the research question written below.
-
+	> the Jupyter notebook  that contains all the answers and plots to the research question written below.
+	
+	[click here](https://nbviewer.jupyter.org/github/AlessandradellaFazia/ADMhomework2/blob/main/main.ipynb) to see the jupyter notebook viewer.
  
 
 ### Research questions
